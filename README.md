@@ -5,18 +5,13 @@ Currently transitioning into QA, building a strong foundation in **manual testin
 
 ## What I’m working on
 - Building a **Manual Testing Portfolio** (test cases, bug reports, QA documentation) → [View Repo](https://github.com/Khadijaaimen/manual-testing-projects)  
-- Learning **Selenium WebDriver with Java** and Test Automation fundamentals  
+- Learning **Selenium WebDriver with Java** and Test Automation fundamentals → [View Repo](https://github.com/Khadijaaimen/selenium-automation-tests)  
 - Exploring real-world QA workflows (bug tracking, reporting, SDLC/STLC)  
 
 ## Tech & Tools
 - **Languages**: Java, Kotlin (Android), basics of SQL  
 - **QA Skills**: Test case design, Bug reporting, Equivalence Partitioning (EP), Boundary Value Analysis (BVA)  
 - **Tools**: Selenium WebDriver, TestNG, GitHub, IntelliJ IDEA, JIRA (familiarity)  
-
-## Featured Projects
-- [Manual Testing Projects](https://github.com/Khadijaaimen/manual-testing-projects)  
-  → Includes test cases, bug reports, and QA documentation for demo apps like OrangeHRM & DemoQA  
-- Completed: Selenium Test Automation examples with Page Object Model  
 
 ## Learning Journey
 - Completed:  
