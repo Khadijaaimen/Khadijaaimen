@@ -16,7 +16,7 @@ Currently transitioning into QA, building a strong foundation in **manual testin
 ## Featured Projects
 - [Manual Testing Projects](https://github.com/Khadijaaimen/manual-testing-projects)  
   → Includes test cases, bug reports, and QA documentation for demo apps like OrangeHRM & DemoQA  
-- *(Upcoming)*: Selenium Test Automation examples with Page Object Model  
+- Completed: Selenium Test Automation examples with Page Object Model  
 
 ## Learning Journey
 - Completed:  
@@ -26,7 +26,7 @@ Currently transitioning into QA, building a strong foundation in **manual testin
 - Next: Advanced manual testing projects + automation frameworks  
 
 ## Connect with me
-- LinkedIn: [linkedin.com/in/khadija-zeb-4362b220b/](#)  
+- LinkedIn: [https://www.linkedin.com/in/khadija-zeb-4362b220b/](#)  
 - Email: khadijazeb1499@gmail.com  
 
 ---
