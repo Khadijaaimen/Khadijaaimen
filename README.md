@@ -21,8 +21,9 @@ Currently transitioning into QA, building a strong foundation in **manual testin
 - Next: Advanced manual testing projects + automation frameworks  
 
 ## Connect with me
-- LinkedIn: [https://www.linkedin.com/in/khadija-zeb-4362b220b/](#)  
-- Email: khadijazeb1499@gmail.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-zeb-4362b220b/)
+- [![Email](https://img.shields.io/badge/Email-khadijazeb1499@gmail.com-red?logo=gmail&logoColor=white)](mailto:khadijazeb1499@gmail.com)
+
 
 ---
 ⭐️ *Open to working student roles, internships, or junior positions in Software QA.*
